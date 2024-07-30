@@ -1,9 +1,7 @@
 # ReelFeel Analyzer
 
 
-## Sentiment Analysis on IMDB Movie Reviews
-
-## Project Overview
+## Sentiment Analysis on IMDB Movie Reviews - Project Overview
 This project involves performing sentiment analysis on the IMDB Movie Reviews Dataset. The primary objective is to classify movie reviews as positive or negative based on the content of the textual data. The project covers several key areas, including text preprocessing, classification using machine learning algorithms, and model evaluation.
 
 ## Dataset
