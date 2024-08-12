@@ -79,4 +79,4 @@ pip install -r requirements.txt
 
 
 ## :warning: License
-Distributed under the MIT License. See <a href="https://github.com/nishantjoshi-007/ReelFeelAnalyzer/blob/main/LICENSE">LICENSE.txt</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/nishantjoshi-007/ReelFeelAnalyzer/blob/main/LICENSE">LICENSE</a> for more information.
